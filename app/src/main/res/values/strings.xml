@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ShiftKeyDemo</string>
+    <string name="hint_type_location">Type location:</string>
+    <string name="empty_list">(empty list)</string>
+    <string name="result_error">No data received</string>
+    <string name="details_view">Details:</string>
+    <string name="start_shift">Start</string>
+    <string name="end_shift">End</string>
+    <string name="specialty">Specialty</string>
+    <string name="facility_type">Facility Type</string>
+</resources>
